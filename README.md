@@ -113,27 +113,12 @@ Place these in `ml-service/training/datasets/`:
 - `diabetes.csv` — [Pima Diabetes]
 
 ---
-
-## 📁 Project Structure
-Disease_Detector/
-├── Disease_Detector/        # Spring Boot Backend (Eclipse)
-├── frontend/                # Next.js Frontend
-├── ml-service/              # FastAPI ML Microservice
-│   ├── routers/
-│   ├── ml/
-│   ├── schemas/
-│   └── training/
-└── rag-service/             # LangChain RAG Chatbot
-├── rag/
-└── ingestion/
-
----
 🔄 Future Improvements
-Add more disease models
-Improve UI/UX
-Add user authentication
-Deploy to cloud (AWS / Vercel)
-Add LLM-based health assistant
+- Add more disease models
+- Improve UI/UX
+- Add user authentication
+- Deploy to cloud (AWS / Vercel)
+- Add LLM-based health assistant
 
 📌 Author
 Thejaswini M
