@@ -11,17 +11,15 @@ Frontend (Next.js :3000)
 ↓
 Spring Boot Backend (:8080)
 ↓
-┌────────────────────────┐
-│  FastAPI ML Service    │  :8000
-│  - Heart Disease Model │
-│  - Diabetes Model      │
-└────────────────────────┘
+FastAPI ML Service :8000
+- Heart Disease Model 
+ - Diabetes Model 
 ↓
-┌────────────────────────┐
-│  RAG Service           │  :8001
-│  - LangChain + FAISS   │
-│  - Ollama LLaMA 3.2    │
-└────────────────────────┘
+
+ RAG Service  :8001
+ - LangChain + FAISS   
+ - Ollama LLaMA 3.2    
+
 
 ---
 
