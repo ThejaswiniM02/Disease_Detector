@@ -8,12 +8,17 @@ An AI-powered health risk assessment web application that predicts the risk of *
 
 ## 🏗️ Architecture
 Frontend (Next.js :3000)
+
 ↓
+
 Spring Boot Backend (:8080)
+
 ↓
+
 FastAPI ML Service :8000
 - Heart Disease Model 
- - Diabetes Model 
+ - Diabetes Model
+   
 ↓
 
  RAG Service  :8001
