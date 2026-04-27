@@ -1,0 +1,29 @@
+Diabetes is a chronic condition where the body cannot properly regulate blood sugar levels.
+
+Type 1 diabetes is an autoimmune condition where the pancreas produces little or no insulin.
+
+Type 2 diabetes occurs when the body becomes resistant to insulin or doesn't produce enough insulin.
+
+Normal fasting blood glucose is below 100 mg/dL. Prediabetes is 100-125 mg/dL. Diabetes is diagnosed at 126 mg/dL or higher.
+
+Symptoms of diabetes include frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision, and slow-healing sores.
+
+BMI above 25 is considered overweight and above 30 is obese. Obesity significantly increases the risk of Type 2 diabetes.
+
+The diabetes pedigree function measures the genetic influence of diabetes in family history. Higher values indicate stronger family history.
+
+Regular physical activity improves insulin sensitivity and helps control blood sugar levels.
+
+A diabetes-friendly diet limits refined carbohydrates, sugary drinks, and processed foods while emphasizing vegetables, whole grains, and lean proteins.
+
+Insulin is a hormone produced by the pancreas that allows cells to use glucose for energy.
+
+High insulin resistance means the body's cells do not respond properly to insulin, leading to elevated blood sugar.
+
+Blood pressure control is important in diabetes management as hypertension increases risk of diabetic complications.
+
+Skin thickness measurements can indicate insulin resistance as excess fat deposits affect subcutaneous tissue.
+
+Pregnancy can trigger gestational diabetes due to hormonal changes that affect insulin function.
+
+Regular monitoring of blood glucose, HbA1c, blood pressure, and cholesterol is essential for diabetes management.
