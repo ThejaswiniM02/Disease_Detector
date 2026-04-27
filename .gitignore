@@ -1,5 +1,45 @@
-node_modules/
-.next/
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
 .env
+venv/
+env/
+
+# Vector store (regenerate with ingest.py)
+rag-service/vector_store/
+
+# ML models (regenerate with training scripts)
+ml-service/models/*.pkl
+
+# Node
+node_modules/
+.next/
+npm-debug.log*
+
+# Java / Maven
+target/
+*.class
+*.jar
+.classpath
+.project
+.settings/
+.factorypath
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.eclipse/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Datasets (too large, download separately)
+ml-service/training/datasets/
